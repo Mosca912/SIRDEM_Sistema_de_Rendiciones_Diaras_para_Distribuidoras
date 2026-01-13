@@ -3,7 +3,7 @@
 Sistema de gestión comercial desarrollado en Java para una distribuidora, orientado a la administración integral de productos, clientes, empleados, ventas, gastos y reportes.  
 El sistema funciona como aplicación de escritorio (Desktop) con base de datos SQL y generación de reportes en PDF.
 
-Este proyecto fue desarrollado como primer proyecto completo y funcional, con enfoque en una PyME real.
+Este proyecto fue desarrollado enfocado en una PyME real.
 
 ---
 
