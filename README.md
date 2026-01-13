@@ -37,30 +37,6 @@ Incluye validaciones, control de datos y persistencia en base de datos.
 
 ---
 
-## Estructura del proyecto
-Distribuidora_Sistema/
-├── src/
-│ └── Clases/
-│ ├── Products_window.java
-│ ├── Clients_window.java
-│ ├── Employee_window.java
-│ ├── Sales_window.java
-│ ├── Bills_window.java
-│ ├── Returns_window.java
-│ ├── Salary_window.java
-│ ├── Add_modify_user.java
-│ ├── PDF.java
-│ ├── General_configurations.java
-│ ├── File_Check_window.java
-│ ├── Create_window.java
-│ └── New_file_window.java
-├── build/
-└── nbproject/
-
-Cada ventana representa un módulo funcional del sistema.
-
----
-
 ## Funcionalidades destacadas
 
 ### Gestión comercial
